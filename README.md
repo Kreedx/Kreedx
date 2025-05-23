@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fspongebob-kisses-gifs&psig=AOvVaw2yZkxPFtXiFNmPYTrbzsLs&ust=1748108616065000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIibqZqSuo0DFQAAAAAdAAAAABBe"  />
+<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:63.61%;position:relative;"><iframe width="360" height="229" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9ulnpz"></iframe></div><p><a href="https://imgflip.com/gif/9ulnpz">via Imgflip</a></p></div>
 
 ###
 
