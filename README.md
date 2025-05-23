@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fspongebob-kisses-gifs&psig=AOvVaw2yZkxPFtXiFNmPYTrbzsLs&ust=1748108616065000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIibqZqSuo0DFQAAAAAdAAAAABBe"  />
 
 ###
 
@@ -51,11 +51,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Kreedx/Kreedx/output/snake.svg" alt="Snake animation" />
-
-###
